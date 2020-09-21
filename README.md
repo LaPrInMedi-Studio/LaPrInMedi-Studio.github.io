@@ -1,4 +1,7 @@
+[view landing page](https://LaPrInMedi-Studio.github.io )
+
 # Dev Landing Page
+
 
 Minimal landing page for developers.
 
